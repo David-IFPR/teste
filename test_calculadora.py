@@ -23,7 +23,7 @@ def test_subtrair_zero():
 
 # Testes para multiplicar
 def test_multiplicar_positivos():
-    assert multiplicar(4, 3) == 12
+    assert multiplicar(5, 3) == 12
 
 def test_multiplicar_negativos():
     assert multiplicar(-2, 3) == -6
